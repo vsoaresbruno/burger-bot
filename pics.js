@@ -1,17 +1,11 @@
 module.exports = {
-  cats: [
-    'https://i.imgur.com/Qbg7CeM.jpg',
-    'https://i.imgur.com/nUzkpJY.jpg',
-    'https://i.imgur.com/NpDcKph.jpg',
-    'https://i.imgur.com/oJtSDaO.jpg',
-    'https://i.redd.it/82ajpsrd17111.jpg',
-    'https://i.redd.it/00km1d2rt0111.jpg',
-    'https://i.redd.it/rdbavhp0y7111.jpg',
-    'https://i.redd.it/5hn3mg0n98111.jpg',
-    'https://i.redd.it/d23pb8mta6111.jpg',
-    'https://i.redd.it/d2gyrwgy7oz01.jpg',
-    'https://i.redd.it/z4sgl84q72z01.jpg',
-    'https://i.redd.it/wvykzo8n1cy01.jpg'
+  burgers: [
+    'https://foodal.com/wp-content/uploads/2015/07/5-Tasty-Ideas-to-Liven-Up-Your-Burgers.jpg',
+    'https://foodal.com/wp-content/uploads/2015/07/5-Great-Hamburger-Ideas.jpg',
+    'https://foodal.com/wp-content/uploads/2015/07/Hamburger-Tips-and-Variations.jpg',
+    'https://foodal.com/wp-content/uploads/2015/07/Oozy-Bluesy-Stilton-and-Sirloin-Burger-Recipe.jpg',
+    'https://foodal.com/wp-content/uploads/2015/07/Recipe-for-Oozy-Bluesy-Stilton-and-Sirloin-Burgers.jpg',
+    'https://foodal.com/wp-content/uploads/2015/07/Homemade-Turkey-Burger-Recipe.jpg'
   ],
 
   dogs: [

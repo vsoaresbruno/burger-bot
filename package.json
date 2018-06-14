@@ -1,7 +1,7 @@
 {
-  "name": "chatbot-messenger",
+  "name": "burger-chatbot-messenger",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Chatbot integrate with Messenger",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
